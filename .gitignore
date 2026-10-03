@@ -1,0 +1,8 @@
+.env
+*.env
+openAI.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
